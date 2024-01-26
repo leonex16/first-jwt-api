@@ -1,0 +1,25 @@
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Build output
+**/bin/
+**/obj/
+
+# IDE temporary files
+**/.vs/
+**/.idea/
+
+# .NET Core temporary files
+**/bin/Debug/net6.0/
+**/bin/Release/net6.0/
+
+# Other
+*.config
+*.dbmdl
+*.efschema.cs
+*.runtimeconfig.json
+*.vstemplate
+*.nuget
+*.snk
